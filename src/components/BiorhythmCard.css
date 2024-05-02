@@ -1,0 +1,11 @@
+.BiorhythmCard .physical {
+  color: green;
+}
+
+.BiorhythmCard .emotional {
+  color: red;
+}
+
+.BiorhythmCard .intellectual {
+  color: blue;
+}
